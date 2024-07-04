@@ -7,7 +7,7 @@ on:
 
 
 jobs: 
-  deploymentjob:
+  build:
     name: Deploy to Win Server
     runs-on: ubuntu-latest
     steps:
